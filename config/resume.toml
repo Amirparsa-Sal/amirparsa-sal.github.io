@@ -12,6 +12,12 @@ timeline = "2019 — 2024"
 discipline = "Computer Engineering"
 description = "GPA: 18.16/20 = 3.83/4"
 
+[[education]]
+title = "Politecnico di Milano, Milan, Italy"
+timeline = "2025 — Now"
+discipline = "Computer Science & Engineering (Artificial Intelligence Track)"
+description = ""
+
 ############## Research config ################
 #################################################
 

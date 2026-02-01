@@ -1,15 +1,15 @@
 name = "Amirparsa"
 lastname = "Salmankhah"
-rol = "Graduate"
-email = "amirparsa.sal@gmail.com"
-phone = "+98 901 727-7909"
+rol = "Graduate Student"
+email = "amirparsa.salmankhah@mail.polimi.it"
+phone = "+39 379 145 8852"
 birthday = "April 28, 2001"
-location = "Tehran, Iran"
+location = "Milan, Italy"
 avatar = "./config/assets/avatars/avatar.jpeg"
 username = "amirpars-sal" # <-- github user name
-googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d199666.5651251294!2d-121.58334177520186!3d38.56165006739519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809ac672b28397f9%3A0x921f6aaa74197fdb!2sSacramento%2C%20CA%2C%20USA!5e0!3m2!1sen!2sbd!4v1647608789441!5m2!1sen!2sbd" 
+googlemaps = "https://www.google.com/maps/place/poliMI+%C2%B7+Department+of+Electronics,+Information+and+Bioengineering/@45.4786698,9.229846,17z/data=!3m2!4b1!5s0x4786c6f67b7483d9:0x78d3317830911b36!4m6!3m5!1s0x4786c6f67c76510f:0x52a5c69d1962b716!8m2!3d45.4786698!4d9.2324209!16s%2Fg%2F11b6wlzkpt!5m1!1e1?entry=ttu&g_ep=EgoyMDI2MDEyOC4wIKXMDSoKLDEwMDc5MjA2N0gBUAM%3D" 
 presentation = """
-I’m a Computer Engineering graduate from Amirkabir University of Technology (AUT) in Iran. My interest in AI began during high school, where I was fascinated by its potential to transform the world. This passion led me to focus on AI throughout my studies at AUT, allowing me to gain a deep understanding of this growing field.
+I’m a Computer Science & Engineering graduate student from Politecnico di Milano. My interest in AI began during high school, where I was fascinated by its potential to transform the world. This passion led me to focus on AI throughout my studies at AUT, allowing me to gain a deep understanding of this growing field.
                        
 What makes my approach unique is that I don’t limit myself to one specific area of AI. I believe in exploring different concepts like Data Mining, Computer Vision, NLP and Trustworthy AI. This broader perspective helps me come up with new ideas and tackle a variety of challenges.
 
